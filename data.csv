@@ -1,26 +1,41 @@
 School,Type,Address,Latitude,Longitude
-Oklahoma State University,Research Universities,"Stillwater, Oklahoma",36.1156071,-97.0583681
-University of Oklahoma,Research Universities,"Norman, Oklahoma",35.2225668,-97.4394777
-Cameron University,Regional Universities,"Lawton, Oklahoma",34.6035669,-98.3959291
-East Central University,Regional Universities,"1100 E. 14th Street, Ada, Oklahoma 74820",34.7724163,-96.6614488
-Langston University,Regional Universities,"Langston, Oklahoma",35.9450505,-97.2553142
-Northeastern State University,Regional Universities,"Tahlequah, Oklahoma",35.91537,-94.969956
-Northwestern Oklahoma State University,Regional Universities,"709 Oklahoma Blvd., Alva, Oklahoma",36.7976769,-98.6687
-Oklahoma Panhandle State University,Regional Universities,"Goodwell, Oklahoma",36.5953038,-101.6365504
-Rogers State University,Regional Universities,"1701 W. Will Rogers Blvd. Claremore, Oklahoma",36.3185691,-95.6306515
-Southeastern Oklahoma State University,Regional Universities,"Durant, Oklahoma",33.9924186,-96.3971233
-Southwestern Oklahoma State University,Regional Universities,"Weatherford, Oklahoma,",35.5261633,-98.7075744
-University of Central Oklahoma,Regional Universities,"Edmond, Oklahoma",35.6528323,-97.4780954
-University of Science and Arts of Oklahoma,Regional Universities,"Chickasha, Oklahoma",35.052565,-97.9364326
-Carl Albert State College,Community Colleges,"Poteau, Oklahoma",35.0537094,-94.6235579
-Connors State College,Community Colleges,"Warner, Oklahoma",35.4942644,-95.3055239
-Eastern Oklahoma State College,Community Colleges,"Wilburton, Oklahoma",34.91871,-95.3091383
-Murray State College,Community Colleges,"Tishomingo, Oklahoma",34.2362054,-96.6786131
-Northeastern Oklahoma A&M College,Community Colleges,"Miami, Oklahoma",36.8745146,-94.8774554
-Northern Oklahoma College,Community Colleges,"Tonkawa, Oklahoma",36.6783679,-97.3100441
-Oklahoma City Community College,Community Colleges,"7777 South May Avenue, Oklahoma City, OK 73159-4444",35.3866529,-97.5686098
-Redlands Community College,Community Colleges,"El Reno, Oklahoma",35.5322741,-97.9550493
-Rose State College,Community Colleges,"Midwest City, Oklahoma",35.4495065,-97.3967019
-Seminole State College,Community Colleges,"Seminole, Oklahoma",35.2245201,-96.670573
-Tulsa Community College,Community Colleges,"6111 East Skelly Drive, Tulsa, Oklahoma 74135",36.106761,-95.908157
-Western Oklahoma State College,Community Colleges,"Altus, Oklahoma",34.637765,-99.3340442
+Oklahoma State University,Research University,"Stillwater, Oklahoma",36.1156071,-97.0583681
+University of Oklahoma,Research University,"Norman, Oklahoma",35.2225668,-97.4394777
+Cameron University,Regional University,"Lawton, Oklahoma",34.6035669,-98.3959291
+East Central University,Regional University,"1100 E. 14th Street, Ada, Oklahoma 74820",34.7724163,-96.6614488
+Langston University,Regional University,"Langston, Oklahoma",35.9450505,-97.2553142
+Northeastern State University,Regional University,"Tahlequah, Oklahoma",35.91537,-94.969956
+Northwestern Oklahoma State University,Regional University,"709 Oklahoma Blvd., Alva, Oklahoma",36.7976769,-98.6687
+Oklahoma Panhandle State University,Regional University,"Goodwell, Oklahoma",36.5953038,-101.6365504
+Rogers State University,Regional University,"1701 W. Will Rogers Blvd. Claremore, Oklahoma",36.3185691,-95.6306515
+Southeastern Oklahoma State University,Regional University,"Durant, Oklahoma",33.9924186,-96.3971233
+Southwestern Oklahoma State University,Regional University,"Weatherford, Oklahoma,",35.5261633,-98.7075744
+University of Central Oklahoma,Regional University,"Edmond, Oklahoma",35.6528323,-97.4780954
+University of Science and Arts of Oklahoma,Regional University,"Chickasha, Oklahoma",35.052565,-97.9364326
+Carl Albert State College,Community College,"Poteau, Oklahoma",35.0537094,-94.6235579
+Connors State College,Community College,"Warner, Oklahoma",35.4942644,-95.3055239
+Eastern Oklahoma State College,Community College,"Wilburton, Oklahoma",34.91871,-95.3091383
+Murray State College,Community College,"Tishomingo, Oklahoma",34.2362054,-96.6786131
+Northeastern Oklahoma A&M College,Community College,"Miami, Oklahoma",36.8745146,-94.8774554
+Northern Oklahoma College,Community College,"Tonkawa, Oklahoma",36.6783679,-97.3100441
+Oklahoma City Community College,Community College,"7777 South May Avenue, Oklahoma City, OK 73159-4444",35.3866529,-97.5686098
+Redlands Community College,Community College,"El Reno, Oklahoma",35.5322741,-97.9550493
+Rose State College,Community College,"Midwest City, Oklahoma",35.4495065,-97.3967019
+Seminole State College,Community College,"Seminole, Oklahoma",35.2245201,-96.670573
+Tulsa Community College,Community College,"6111 East Skelly Drive, Tulsa, Oklahoma 74135",36.106761,-95.908157
+Western Oklahoma State College,Community College,"Altus, Oklahoma",34.637765,-99.3340442
+Cheyenne-Arapaho Tribal College,Tribal College,"100 Campus Dr, Weatherford, OK 73096",35.5355498,-98.707797
+College of the Muscogee Nation,Tribal College,"1200 Highway Loop 56, Okmulgee, OK 74447",35.6298905,-95.934563
+Comanche Nation College,Tribal College,"1608 SW 9TH ST., Lawton, OK 73501",34.589602,-98.4008379
+Pawnee Nation College,Tribal College,"891 Little Dee Rd, Pawnee, OK 74058",36.337832,-96.803923
+Bacone College,Independent College,"2299 Old Bacone Rd, Muskogee, OK 74403",35.7740418,-95.3344863
+Hillsdale Free Will Baptist College,Independent University,"3701 S. Frontage Rd., Moore, OK 73160",35.300769,-97.491047
+Mid-America Christian University,Independent University,"3500 SW 119th St, Oklahoma City, OK 73170",35.347349,-97.577237
+Oklahoma Baptist University,Independent University,"500 West University, Shawnee, OK 74804",35.3604545,-96.9324868
+Oklahoma Christian University,Independent University,"2501 E. Memorial Road, Edmond, OK 73013",35.6122572,-97.4723601
+Oklahoma City University,Independent University,"2501 N Blackwelder, Oklahoma City, OK 73106",35.493804,-97.5402212
+Oral Roberts University,Independent University,"7777 S Lewis Ave., Tulsa, OK 74171",36.0480425,-95.9554713
+Saint Gregory's University,Independent University,"1900 W MacArthur Street, Shawnee, OK 74804",35.361756,-96.954195
+Southern Nazarene University,Independent University,"6729 NW 39th Expy, Bethany, OK 73008",35.5118819,-97.6284522
+Southwestern Christian University,Independent University,"7210 NW 39th Expressway, Bethany, OK 73008",35.5133242,-97.639312
+University of Tulsa,Independent University,"800 South Tucker Drive, Tulsa, OK 74104",36.1490106,-95.9467696
