@@ -25,7 +25,7 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">Oklahoma Public & Private Higher Education Icon Test 2</div>
+  <div id="map-title">Oklahoma Public & Private Higher Education</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
@@ -80,7 +80,6 @@
   /* Upload Latitude/Longitude markers from data.csv file, show Title in pop-up, and override initial center and zoom to fit all in map */
   var customLayer = L.geoJson(null, {
   onEachFeature: function(feature, layer) {
-      layer.marker({icon: redIcon});
       layer.bindPopup(feature.properties.School+"<br>"+feature.properties.Type+"<br>"+feature.properties.Address);
   }
   });
