@@ -1,4 +1,26 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+School,Type,Address,Latitude,Longitude
+Oklahoma State University,Research Universities,"Stillwater, Oklahoma",36.1156071,-97.0583681
+University of Oklahoma,Research Universities,"Norman, Oklahoma",35.2225668,-97.4394777
+Cameron University,Regional Universities,"Lawton, Oklahoma",34.6035669,-98.3959291
+East Central University,Regional Universities,"1100 E. 14th Street, Ada, Oklahoma 74820",34.7724163,-96.6614488
+Langston University,Regional Universities,"Langston, Oklahoma",35.9450505,-97.2553142
+Northeastern State University,Regional Universities,"Tahlequah, Oklahoma",35.91537,-94.969956
+Northwestern Oklahoma State University,Regional Universities,"709 Oklahoma Blvd., Alva, Oklahoma",36.7976769,-98.6687
+Oklahoma Panhandle State University,Regional Universities,"Goodwell, Oklahoma",36.5953038,-101.6365504
+Rogers State University,Regional Universities,"1701 W. Will Rogers Blvd. Claremore, Oklahoma",36.3185691,-95.6306515
+Southeastern Oklahoma State University,Regional Universities,"Durant, Oklahoma",33.9924186,-96.3971233
+Southwestern Oklahoma State University,Regional Universities,"Weatherford, Oklahoma,",35.5261633,-98.7075744
+University of Central Oklahoma,Regional Universities,"Edmond, Oklahoma",35.6528323,-97.4780954
+University of Science and Arts of Oklahoma,Regional Universities,"Chickasha, Oklahoma",35.052565,-97.9364326
+Carl Albert State College,Community Colleges,"Poteau, Oklahoma",35.0537094,-94.6235579
+Connors State College,Community Colleges,"Warner, Oklahoma",35.4942644,-95.3055239
+Eastern Oklahoma State College,Community Colleges,"Wilburton, Oklahoma",34.91871,-95.3091383
+Murray State College,Community Colleges,"Tishomingo, Oklahoma",34.2362054,-96.6786131
+Northeastern Oklahoma A&M College,Community Colleges,"Miami, Oklahoma",36.8745146,-94.8774554
+Northern Oklahoma College,Community Colleges,"Tonkawa, Oklahoma",36.6783679,-97.3100441
+Oklahoma City Community College,Community Colleges,"7777 South May Avenue, Oklahoma City, OK 73159-4444",35.3866529,-97.5686098
+Redlands Community College,Community Colleges,"El Reno, Oklahoma",35.5322741,-97.9550493
+Rose State College,Community Colleges,"Midwest City, Oklahoma",35.4495065,-97.3967019
+Seminole State College,Community Colleges,"Seminole, Oklahoma",35.2245201,-96.670573
+Tulsa Community College,Community Colleges,"6111 East Skelly Drive, Tulsa, Oklahoma 74135",36.106761,-95.908157
+Western Oklahoma State College,Community Colleges,"Altus, Oklahoma",34.637765,-99.3340442
