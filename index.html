@@ -58,12 +58,12 @@
 
   /* Display a blue point marker with pop-up text */
   L.marker([35.4828462,-97.6196249]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup("My text"); // EDIT pop-up text message
+  .bindPopup("Oklahoma Higher Education: Click a marker to view details."); // EDIT pop-up text message
 
   /* Upload Latitude/Longitude markers from data.csv file, show Title in pop-up, and override initial center and zoom to fit all in map */
   var customLayer = L.geoJson(null, {
   onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.Title);
+      layer.bindPopup(feature.properties.School);
   }
   });
   var runLayer = omnivore.csv('data.csv', null, customLayer)
